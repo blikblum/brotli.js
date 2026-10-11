@@ -2,8 +2,12 @@
 
 ## Unreleased
 
+## 2.1.0 - 2026-10-10
+
 ### Changed
  - Use the nullish coalescing (??) operator to check if the value is defined (#38)
+ - Use imports field to ship differential implementation for node and browser
+
 
 ## 2.0.0 - 2026-10-10
 
